@@ -19,7 +19,7 @@ To create an intuitive and user-friendly system for medication tracking, reminde
 
 ## 🎨 Design Preview
 
-![Preview](./preview.png)
+![Preview](./preview.jpeg)
 
 ## 🧠 Design Approach
 
